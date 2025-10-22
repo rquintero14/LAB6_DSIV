@@ -10,7 +10,7 @@ namespace Laboratorio6
 {
     internal class DatosLibros
     {
-        // Cadena de conexión
+        // Cadena de conexión cambiar según configuración local
         private string cadenaConexion =
             "Data Source=LAPTOP-ALE;Initial Catalog=Libreria;Integrated Security=True";
 
