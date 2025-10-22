@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Laboratorio6
 {
-    internal class DatosLibros
+    internal class DatosLibros 
     {
         // Cadena de conexión cambiar según configuración local
         private string cadenaConexion =
