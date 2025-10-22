@@ -1,34 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\salis\\OneDrive\\Escritorio\\Roniel\\IV SEMESTRE\\DESARROLLO IV\\LABS\\Laboratorio6\\",
+  "WorkspaceRootPath": "C:\\Users\\Sale\\OneDrive\\Escritorio\\UTP\\III SEMESTRE\\Desarrollo de Software III\\SEMESTRAL\\GITHUB\\LAB6\\LAB6_DSIV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|C:\\Users\\salis\\OneDrive\\Escritorio\\Roniel\\IV SEMESTRE\\DESARROLLO IV\\LABS\\Laboratorio6\\laboratorio6\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|c:\\users\\sale\\onedrive\\escritorio\\utp\\iii semestre\\desarrollo de software iii\\semestral\\github\\lab6\\lab6_dsiv\\laboratorio6\\consultas\\datoslibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\consultas\\datoslibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|c:\\users\\salis\\onedrive\\escritorio\\roniel\\iv semestre\\desarrollo iv\\labs\\laboratorio6\\laboratorio6\\datoslibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\datoslibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|c:\\users\\sale\\onedrive\\escritorio\\utp\\iii semestre\\desarrollo de software iii\\semestral\\github\\lab6\\lab6_dsiv\\laboratorio6\\vistas\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\vistas\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|c:\\users\\salis\\onedrive\\escritorio\\roniel\\iv semestre\\desarrollo iv\\labs\\laboratorio6\\laboratorio6\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|c:\\users\\sale\\onedrive\\escritorio\\utp\\iii semestre\\desarrollo de software iii\\semestral\\github\\lab6\\lab6_dsiv\\laboratorio6\\vistas\\edicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\vistas\\edicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|c:\\users\\salis\\onedrive\\escritorio\\roniel\\iv semestre\\desarrollo iv\\labs\\laboratorio6\\laboratorio6\\edicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\edicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|c:\\users\\sale\\onedrive\\escritorio\\utp\\iii semestre\\desarrollo de software iii\\semestral\\github\\lab6\\lab6_dsiv\\laboratorio6\\vistas\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\vistas\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|C:\\Users\\salis\\OneDrive\\Escritorio\\Roniel\\IV SEMESTRE\\DESARROLLO IV\\LABS\\Laboratorio6\\laboratorio6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|c:\\users\\sale\\onedrive\\escritorio\\utp\\iii semestre\\desarrollo de software iii\\semestral\\github\\lab6\\lab6_dsiv\\laboratorio6\\vistas\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\vistas\\consultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|C:\\Users\\salis\\OneDrive\\Escritorio\\Roniel\\IV SEMESTRE\\DESARROLLO IV\\LABS\\Laboratorio6\\laboratorio6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|C:\\Users\\salis\\OneDrive\\Escritorio\\Roniel\\IV SEMESTRE\\DESARROLLO IV\\LABS\\Laboratorio6\\laboratorio6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|c:\\users\\sale\\onedrive\\escritorio\\utp\\iii semestre\\desarrollo de software iii\\semestral\\github\\lab6\\lab6_dsiv\\laboratorio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0B7A702-5F29-4DBA-A9B9-B02586019123}|Laboratorio6\\Laboratorio6.csproj|solutionrelative:laboratorio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,88 +38,78 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Libros.cs",
-              "DocumentMoniker": "C:\\Users\\salis\\OneDrive\\Escritorio\\Roniel\\IV SEMESTRE\\DESARROLLO IV\\LABS\\Laboratorio6\\Laboratorio6\\Libros.cs",
-              "RelativeDocumentMoniker": "Laboratorio6\\Libros.cs",
-              "ToolTip": "C:\\Users\\salis\\OneDrive\\Escritorio\\Roniel\\IV SEMESTRE\\DESARROLLO IV\\LABS\\Laboratorio6\\Laboratorio6\\Libros.cs",
-              "RelativeToolTip": "Laboratorio6\\Libros.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sale\\OneDrive\\Escritorio\\UTP\\III SEMESTRE\\Desarrollo de Software III\\SEMESTRAL\\GITHUB\\LAB6\\LAB6_DSIV\\Laboratorio6\\Vistas\\inicio.cs",
+              "RelativeDocumentMoniker": "Laboratorio6\\Vistas\\inicio.cs",
+              "ToolTip": "C:\\Users\\Sale\\OneDrive\\Escritorio\\UTP\\III SEMESTRE\\Desarrollo de Software III\\SEMESTRAL\\GITHUB\\LAB6\\LAB6_DSIV\\Laboratorio6\\Vistas\\inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Laboratorio6\\Vistas\\inicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T15:19:49.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T02:28:17.726Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DatosLibros.cs",
-              "DocumentMoniker": "C:\\Users\\salis\\OneDrive\\Escritorio\\Roniel\\IV SEMESTRE\\DESARROLLO IV\\LABS\\Laboratorio6\\Laboratorio6\\DatosLibros.cs",
-              "RelativeDocumentMoniker": "Laboratorio6\\DatosLibros.cs",
-              "ToolTip": "C:\\Users\\salis\\OneDrive\\Escritorio\\Roniel\\IV SEMESTRE\\DESARROLLO IV\\LABS\\Laboratorio6\\Laboratorio6\\DatosLibros.cs",
-              "RelativeToolTip": "Laboratorio6\\DatosLibros.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAAwEIAAABYAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Edicion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sale\\OneDrive\\Escritorio\\UTP\\III SEMESTRE\\Desarrollo de Software III\\SEMESTRAL\\GITHUB\\LAB6\\LAB6_DSIV\\Laboratorio6\\Vistas\\Edicion.cs",
+              "RelativeDocumentMoniker": "Laboratorio6\\Vistas\\Edicion.cs",
+              "ToolTip": "C:\\Users\\Sale\\OneDrive\\Escritorio\\UTP\\III SEMESTRE\\Desarrollo de Software III\\SEMESTRAL\\GITHUB\\LAB6\\LAB6_DSIV\\Laboratorio6\\Vistas\\Edicion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Laboratorio6\\Vistas\\Edicion.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:47:49.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T02:28:15.875Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Edicion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\salis\\OneDrive\\Escritorio\\Roniel\\IV SEMESTRE\\DESARROLLO IV\\LABS\\Laboratorio6\\Laboratorio6\\Edicion.cs",
-              "RelativeDocumentMoniker": "Laboratorio6\\Edicion.cs",
-              "ToolTip": "C:\\Users\\salis\\OneDrive\\Escritorio\\Roniel\\IV SEMESTRE\\DESARROLLO IV\\LABS\\Laboratorio6\\Laboratorio6\\Edicion.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Laboratorio6\\Edicion.cs [Dise\u00F1o]",
+              "Title": "Consultas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Sale\\OneDrive\\Escritorio\\UTP\\III SEMESTRE\\Desarrollo de Software III\\SEMESTRAL\\GITHUB\\LAB6\\LAB6_DSIV\\Laboratorio6\\Vistas\\Consultas.cs",
+              "RelativeDocumentMoniker": "Laboratorio6\\Vistas\\Consultas.cs",
+              "ToolTip": "C:\\Users\\Sale\\OneDrive\\Escritorio\\UTP\\III SEMESTRE\\Desarrollo de Software III\\SEMESTRAL\\GITHUB\\LAB6\\LAB6_DSIV\\Laboratorio6\\Vistas\\Consultas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Laboratorio6\\Vistas\\Consultas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:25:12.322Z",
+              "WhenOpened": "2025-10-22T02:23:08.003Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Consultas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\salis\\OneDrive\\Escritorio\\Roniel\\IV SEMESTRE\\DESARROLLO IV\\LABS\\Laboratorio6\\Laboratorio6\\Consultas.cs",
-              "RelativeDocumentMoniker": "Laboratorio6\\Consultas.cs",
-              "ToolTip": "C:\\Users\\salis\\OneDrive\\Escritorio\\Roniel\\IV SEMESTRE\\DESARROLLO IV\\LABS\\Laboratorio6\\Laboratorio6\\Consultas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Laboratorio6\\Consultas.cs [Dise\u00F1o]",
+              "Title": "DatosLibros.cs",
+              "DocumentMoniker": "C:\\Users\\Sale\\OneDrive\\Escritorio\\UTP\\III SEMESTRE\\Desarrollo de Software III\\SEMESTRAL\\GITHUB\\LAB6\\LAB6_DSIV\\Laboratorio6\\Consultas\\DatosLibros.cs",
+              "RelativeDocumentMoniker": "Laboratorio6\\Consultas\\DatosLibros.cs",
+              "ToolTip": "C:\\Users\\Sale\\OneDrive\\Escritorio\\UTP\\III SEMESTRE\\Desarrollo de Software III\\SEMESTRAL\\GITHUB\\LAB6\\LAB6_DSIV\\Laboratorio6\\Consultas\\DatosLibros.cs",
+              "RelativeToolTip": "Laboratorio6\\Consultas\\DatosLibros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:24:58.164Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\salis\\OneDrive\\Escritorio\\Roniel\\IV SEMESTRE\\DESARROLLO IV\\LABS\\Laboratorio6\\Laboratorio6\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Laboratorio6\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\salis\\OneDrive\\Escritorio\\Roniel\\IV SEMESTRE\\DESARROLLO IV\\LABS\\Laboratorio6\\Laboratorio6\\Form1.Designer.cs",
-              "RelativeToolTip": "Laboratorio6\\Form1.Designer.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAWwEoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:23:27.632Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\salis\\OneDrive\\Escritorio\\Roniel\\IV SEMESTRE\\DESARROLLO IV\\LABS\\Laboratorio6\\Laboratorio6\\Form1.cs",
-              "RelativeDocumentMoniker": "Laboratorio6\\Form1.cs",
-              "ToolTip": "C:\\Users\\salis\\OneDrive\\Escritorio\\Roniel\\IV SEMESTRE\\DESARROLLO IV\\LABS\\Laboratorio6\\Laboratorio6\\Form1.cs",
-              "RelativeToolTip": "Laboratorio6\\Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAWwBEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:23:16.199Z"
+              "WhenOpened": "2025-10-22T02:22:32.674Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\salis\\OneDrive\\Escritorio\\Roniel\\IV SEMESTRE\\DESARROLLO IV\\LABS\\Laboratorio6\\Laboratorio6\\Form1.cs",
-              "RelativeDocumentMoniker": "Laboratorio6\\Form1.cs",
-              "ToolTip": "C:\\Users\\salis\\OneDrive\\Escritorio\\Roniel\\IV SEMESTRE\\DESARROLLO IV\\Laboratorio6\\Laboratorio6\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\Laboratorio6\\Laboratorio6\\Form1.cs [Dise\u00F1o]",
+              "Title": "Consultas.cs",
+              "DocumentMoniker": "C:\\Users\\Sale\\OneDrive\\Escritorio\\UTP\\III SEMESTRE\\Desarrollo de Software III\\SEMESTRAL\\GITHUB\\LAB6\\LAB6_DSIV\\Laboratorio6\\Vistas\\Consultas.cs",
+              "RelativeDocumentMoniker": "Laboratorio6\\Vistas\\Consultas.cs",
+              "ToolTip": "C:\\Users\\Sale\\OneDrive\\Escritorio\\UTP\\III SEMESTRE\\Desarrollo de Software III\\SEMESTRAL\\GITHUB\\LAB6\\LAB6_DSIV\\Laboratorio6\\Vistas\\Consultas.cs",
+              "RelativeToolTip": "Laboratorio6\\Vistas\\Consultas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T14:22:27.689Z"
+              "WhenOpened": "2025-10-22T02:22:03.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sale\\OneDrive\\Escritorio\\UTP\\III SEMESTRE\\Desarrollo de Software III\\SEMESTRAL\\GITHUB\\LAB6\\LAB6_DSIV\\Laboratorio6\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio6\\Program.cs",
+              "ToolTip": "C:\\Users\\Sale\\OneDrive\\Escritorio\\UTP\\III SEMESTRE\\Desarrollo de Software III\\SEMESTRAL\\GITHUB\\LAB6\\LAB6_DSIV\\Laboratorio6\\Program.cs",
+              "RelativeToolTip": "Laboratorio6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T02:18:40.9Z",
+              "EditorCaption": ""
             }
           ]
         }
